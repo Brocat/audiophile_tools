@@ -3,6 +3,7 @@
 
 ## Feature
 
+- Foobar啟動捷徑(即時)
 - 開啟Foobar設定檔目錄
 - 關閉/開啟 explorer處理程序
 
